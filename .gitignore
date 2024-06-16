@@ -1,0 +1,42 @@
+# Dependency directories
+/node_modules
+/.pnp
+.pnp.js
+
+# Production build directory
+/build
+
+# Development environment configuration file
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Coverage directory
+/coverage
+
+# Miscellaneous
+/.DS_Store
+/.idea
+/.vscode
+/.cache
+
+# Yarn integrity file
+.yarn-integrity
+
+# npm debug log
+npm-debug.log*
+
+# Logs
+logs
+*.log
+*.log.*
+
+# Editor directories and files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
