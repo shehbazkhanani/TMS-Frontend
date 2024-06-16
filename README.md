@@ -14,7 +14,7 @@ Install Dependencies
 npm install
 Run the Development Server
 
-npm start
+npm start || npm run dev
 The frontend application should now be running on http://localhost:3000.
 
 Technologies Used
